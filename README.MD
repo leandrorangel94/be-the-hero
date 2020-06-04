@@ -26,6 +26,6 @@ Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para
 
 Quero agradecer a [Rocketseat](https://github.com/Rocketseat) disponibilizar esse conteúdo gratuitamente.
 
--- 
+---
 
 Desenvolvido por Leandro Rangel.
