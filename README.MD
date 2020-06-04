@@ -20,7 +20,7 @@ O Be The Hero é um projeto que visa conectar pessoas que desejam fazer contribu
 
 ## :memo: Licença
 
-Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para mais detalhes.
+Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.MD) para mais detalhes.
 
 ## :+1: Agradecimentos
 
